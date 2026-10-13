@@ -1,0 +1,18 @@
+JARVIS - how to install
+=======================
+
+1. Unzip this file (right-click > Extract All on Windows; double-click on Mac).
+2. Open the "jarvis" folder.
+3. Double-click the installer:
+     Windows:  INSTALL-WINDOWS.bat
+               (if Windows says "protected your PC": More info > Run anyway)
+     Mac:      INSTALL-MAC.command
+               (if Mac blocks it: right-click > Open > Open)
+4. It installs Node.js (if needed), Claude Code, and JARVIS, then asks you
+   to log in to Claude Code once. Log in, type /exit, and JARVIS starts.
+5. Chrome opens http://localhost:5173 - click INITIALISE, allow the
+   microphone, and say "Hey Jarvis".
+
+Next time, just double-click START-WINDOWS.bat or START-MAC.command.
+
+Needs: Google Chrome (or Edge) and a Claude account. Nothing else.
